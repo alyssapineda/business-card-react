@@ -3,7 +3,8 @@
   font-size: 16px;
 
   color-scheme: light dark;
-
+  background-color:#1C1C1C;
+  box-sizing:border-box;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
