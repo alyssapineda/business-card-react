@@ -26,9 +26,24 @@ body {
   border-radius: 0px 0px 10px 10px;
 }
 
+.heading {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  text-align:left;
+  margin:0;
+}
+
+.description {
+  color:#DCDCDC;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 150%;
+  text-align:left;
+  margin:0;
+}
+
 /* INFO SECTION */
-
-
 
 .info--photo {
   border-radius:10px 10px 0 0;
@@ -81,7 +96,7 @@ body {
   font-style:normal;
   font-size:14px;
   font-weight: 600;
-  margin-bottom:10px;
+  margin-bottom:30px;
   cursor:pointer;
 }
 
@@ -100,7 +115,15 @@ body {
   'opsz' 48
 }
 
-/* ABOUT SECTION */
+/* ABOUT & INTERESTS SECTION */
+.about,
+.interests {
+  width:247px;
+  margin:auto;
+  margin-bottom:20px;
+}
+
+
 
 
 
